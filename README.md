@@ -34,7 +34,7 @@ VirtualMouseai/
 
 ⚙️ Setup Instructions
 1. Clone Repository
-git clone https://github.com/your-username/virtual-mouse-python.git
+git clone https://github.com/shreyanshpatel302623/VirtualMouse.git
 cd virtual-mouse-python
 
 2. Create Virtual Environment
@@ -93,3 +93,8 @@ Drag-and-drop support
 GUI toggle for enable/disable
 
 Accuracy improvements with advanced filtering
+
+👤 Author
+
+Shreyansh Patel
+
