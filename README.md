@@ -1,9 +1,9 @@
-Virtual Mouse Using Hand Gestures (Python)
+## Virtual Mouse Using Hand Gestures (Python)
 
 A computer vision–based Virtual Mouse that enables hands-free control of the system cursor using real-time hand gestures captured through a webcam.
 The project leverages MediaPipe Hand Tracking and PyAutoGUI to replace traditional mouse input.
 
-✨ Key Features
+## ✨ Key Features
 
 Real-time hand landmark detection
 
@@ -15,7 +15,7 @@ Smooth and stable cursor motion
 
 Touch-free and hardware-independent solution
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 
 Python 3.11
 
@@ -25,14 +25,14 @@ MediaPipe – Hand landmark detection
 
 PyAutoGUI – Mouse control
 
-📁 Project Structure
+## 📁 Project Structure
 VirtualMouseai/
 ├── virtual_mouse.py
 ├── README.md
 ├── .venv/
 └── .idea/
 
-⚙️ Setup Instructions
+## ⚙️ Setup Instructions
 1. Clone Repository
 git clone https://github.com/shreyanshpatel302623/VirtualMouse.git
 cd virtual-mouse-python
@@ -44,7 +44,7 @@ source .venv/bin/activate
 3. Install Dependencies
 pip install opencv-python mediapipe pyautogui
 
-🔐 Required macOS Permissions
+## 🔐 Required macOS Permissions
 
 Mandatory for proper execution
 
@@ -54,7 +54,7 @@ System Settings → Privacy & Security → Camera → Allow Terminal / PyCharm
 Accessibility Access
 System Settings → Privacy & Security → Accessibility → Allow Terminal / PyCharm
 
-▶️ Run the Application
+## ▶️ Run the Application
 python virtual_mouse.py
 
 Gesture Controls
@@ -62,7 +62,7 @@ Gesture	Action
 Index finger movement	Cursor movement
 Index + Thumb pinch	Left click
 ESC key	Exit program
-🧠 Working Principle
+## 🧠 Working Principle
 
 Webcam captures live video frames
 
@@ -74,7 +74,7 @@ Cursor position is updated in real time
 
 Pinch gesture triggers mouse click event
 
-🎯 Use Cases
+## 🎯 Use Cases
 
 Touchless human-computer interaction
 
@@ -84,7 +84,7 @@ AI & Computer Vision learning projects
 
 Gesture-controlled interfaces
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 Right-click & scroll gestures
 
@@ -94,7 +94,7 @@ GUI toggle for enable/disable
 
 Accuracy improvements with advanced filtering
 
-👤 Author
+## 👤 Author
 
 Shreyansh Patel
 
